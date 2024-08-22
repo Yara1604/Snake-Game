@@ -9,5 +9,5 @@ Modifications:
 - Changed the theme
 
 
-PS: Turtle graphics is a package that's included in the standard python library, so you don't need to install any package to run it.\n
+PS: Turtle graphics is a package that's included in the standard python library, so you don't need to install any package to run it.
 Enjoy!
